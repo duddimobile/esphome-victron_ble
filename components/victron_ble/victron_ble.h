@@ -5,6 +5,7 @@
 #include "esphome/core/component.h"
 #include "esphome/components/esp32_ble_tracker/esp32_ble_tracker.h"
 #include "victron_custom_type.h"
+#include "esphome/core/alloc_helpers.h"
 
 #ifdef USE_ESP32
 
